@@ -14,9 +14,9 @@
                 <td width='20' valign="top" rowspan="2">
                     <nav>
                         <h2 align="center">Menu</h2>
-                        <a href="index.php">>Beranda</a>
-                        <a href="index.php?menu=cv"></a>
-                        <a href="index.php?menu=galeri"></a>
+                        <a href="index.php">Beranda</a>
+                        <a href="index.php?menu=cv">CV</a>
+                        <a href="index.php?menu=galeri">Galeri</a>
                     </nav>
                 </td>
                 <td>
